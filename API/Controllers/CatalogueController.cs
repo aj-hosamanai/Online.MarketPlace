@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Online.MarketPlace.Controllers
 {
+    
     [Route("api/[controller]")]
     [ApiController]
     public class CatalogueController : ControllerBase
