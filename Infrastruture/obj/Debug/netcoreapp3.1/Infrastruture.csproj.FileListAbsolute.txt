@@ -1,0 +1,12 @@
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.csprojAssemblyReference.cache
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.AssemblyInfoInputs.cache
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.AssemblyInfo.cs
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.csproj.CoreCompileInputs.cache
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/bin/Debug/netcoreapp3.1/Infrastruture.deps.json
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/bin/Debug/netcoreapp3.1/Infrastruture.dll
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/bin/Debug/netcoreapp3.1/Infrastruture.pdb
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/bin/Debug/netcoreapp3.1/Domain.dll
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.csproj.CopyComplete
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.dll
+/home/sarga/Desktop/Online_MarketPlace/Infrastruture/obj/Debug/netcoreapp3.1/Infrastruture.pdb

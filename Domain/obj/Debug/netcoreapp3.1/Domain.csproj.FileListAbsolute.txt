@@ -1,0 +1,9 @@
+/home/sarga/Desktop/Online_MarketPlace/Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/home/sarga/Desktop/Online_MarketPlace/Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/home/sarga/Desktop/Online_MarketPlace/Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/sarga/Desktop/Online_MarketPlace/Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache
+/home/sarga/Desktop/Online_MarketPlace/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/home/sarga/Desktop/Online_MarketPlace/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/home/sarga/Desktop/Online_MarketPlace/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/home/sarga/Desktop/Online_MarketPlace/Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/home/sarga/Desktop/Online_MarketPlace/Domain/obj/Debug/netcoreapp3.1/Domain.pdb
